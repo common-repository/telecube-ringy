@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TeleCube Ringy 1.0\n"
+"POT-Creation-Date: 2018-05-18 14:59+0200\n"
+"PO-Revision-Date: 2018-07-06 08:45+0200\n"
+"Last-Translator: \n"
+"Language-Team: Claude ICT Poland <info@telecube.pl>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#: options.php:20
+msgid "TeleCube Ringy"
+msgstr "TeleCube Ringy"
+
+#: options.php:31
+msgid "Settings"
+msgstr "Settings"
+
+#: options.php:37
+msgid "Ringy UUID"
+msgstr "Ringy UUID"
+
+#: options.php:61
+#, php-format
+msgid "You can get TeleCube Ringy UUID from: %s."
+msgstr "TeleCube RINGY is a widget that you can easily install on your website, which makes it easier for your visitors to contact you. This step assumes that you have created a widget in the Client Panel and you have an unique identifier (UUID) for your widget. To get your unique widget identifier (UUID), go to the page: %s. and click on the barcode icon in the left-bottom corner of the widget you want to install."
+
+#: options.php:80
+msgid "Write it without any spacer around it."
+msgstr "Write or paste your widget's UUID without leading or trailing spaces."
+
+#: tcp-ringy.php:5
+msgid "Insert Telecube Ringy to wordpress page."
+msgstr "Insert TeleCube Ringy to the page."

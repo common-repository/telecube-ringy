@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TeleCube Ringy 1.0\n"
+"POT-Creation-Date: 2018-05-18 15:06+0200\n"
+"PO-Revision-Date: 2018-05-18 15:10+0200\n"
+"Language-Team: Claude ICT Poland <info@telecube.pl>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Language: ru_RU\n"
+
+#: options.php:20
+msgid "TeleCube Ringy"
+msgstr "TeleCube Ringy"
+
+#: options.php:31
+msgid "Settings"
+msgstr "Установка"
+
+#: options.php:37
+msgid "Ringy UUID"
+msgstr "Ringy UUID"
+
+#: options.php:61
+#, php-format
+msgid "You can get TeleCube Ringy UUID from: %s."
+msgstr "Вы можете получить TeleCube Ringy UUID от: %s."
+
+#: options.php:80
+msgid "Write it without any spacer around it."
+msgstr "Напишите его без каких-либо распорок вокруг него."
+
+#: tcp-ringy.php:5
+msgid "Insert Telecube Ringy to wordpress page."
+msgstr "Вставьте Telecube Ringy на страницу wordpress."
